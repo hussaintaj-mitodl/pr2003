@@ -1,0 +1,5 @@
+leftnav:
+- identifier: 232e02a4-7acb-41a6-b85b-ef1135153d3c
+  name: page
+  pageRef: /resources/video1_mp4
+  weight: 10
