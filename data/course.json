@@ -1,0 +1,39 @@
+{
+  "term": "Spring",
+  "year": "2022",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Accounting"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "pr2003"
+  },
+  "course_image": {
+    "content": "",
+    "website": "pr2003"
+  },
+  "course_title": "pr2003",
+  "hide_download": false,
+  "course_description": "pr2003",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "1",
+  "primary_course_number": "1",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "pr2003"
+  },
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "site_uid": "c6a660f0-88a2-4cfd-9f40-7edb57af0705",
+  "site_short_id": "pr2003"
+}
